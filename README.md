@@ -52,7 +52,7 @@ Steps are to be completed by writing css rulesets in your `index.css` file.
 4. Create a **declaration** in your new ruleset that changes the **font weight** of the `title` element to **800**, to give the `title` element's text a _bolded_ font weight.
 
 ## Exercise 6
-
+<!--Done-->
 Steps are to be completed by writing css rulesets in your `index.css` file.
 
 1. Add a `d-inline` class name attribute to the current `li` elements in your `index.html` file
@@ -60,14 +60,14 @@ Steps are to be completed by writing css rulesets in your `index.css` file.
 3. Create a **declaration** in your new ruleset that changes the **display** of the `d-inline` elements to **inline**, to have each `<li></li>` display as an _inline_ element.
 
 ## Exercise 7
-
+<!--Done-->
 Steps are to be completed by writing css rulesets in your `index.css` file.
 
 1. Create a **ruleset** in your `index.css` file that selects any `<ul></ul>` element nested as a _child_ of a `<nav></nav>` element. Use the **descendent selector**.
 2. Create a **declaration** in your new ruleset that changes the **list style** of the `nav > ul` elements to **none**, to remove the bullet points that are displayed by default for lists.
 
 ## Exercise 8
-
+<!--Done-->
 Steps are to be completed by writing css rulesets in your `index.css` file.
 
 1. Create a **ruleset** in your `index.css` file that selects the `<body></body>` element.
@@ -75,7 +75,7 @@ Steps are to be completed by writing css rulesets in your `index.css` file.
 3. Create a **declaration** in your new ruleset that changes the **text color** of the `<body></body>` element's text content to **#EEEEEE**.
 
 ## Exercise 9
-
+<!--Done-->
 Steps are to be completed by writing css rulesets in your `index.css` file.
 
 1. Add an `avatar` id attribute to the `<img>` element in your `index.html` file.
